@@ -1,0 +1,107 @@
+ .nature{
+    background-image: url("forest_trees.jpg");
+    opacity: 80%;
+    size: 40px;
+    padding-top: 200px ;
+    background-size: cover; 
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    display:block;
+   
+}  
+.poza-stanga{
+    width:200px; 
+    height:200px;
+    border-radius: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    float: left;
+}
+
+.poza-dreapta{
+    width:200px; 
+    height:200px;
+    border-radius: 50%;
+    padding-right: 50px;
+    padding-left: 50px;
+    float: right;
+}
+
+
+.centru{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Comfortaa', cursive;
+    color: black;
+    font-style: italic;
+    text-indent: -10px;
+    
+    
+}
+
+.beige{
+    background-color: #E5D4C0;
+    color: #1D201F;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    text-indent: 10%;
+}
+
+.softGreen{
+    background-color: #C5DECD;
+    color: #1D201F;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    text-indent: 10%;
+    text-align: center;
+    
+}
+
+.green{
+    background-color: #A1E8CC;
+    color: #1D201F;
+    padding-top: 100px;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    text-indent: 10%;
+    text-align: center;
+}
+
+.gray{
+    background-color:  #1D201F;
+    color: #D1DEDE;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    text-indent: 10%;
+    text-align: center;
+    border: 20px solid transparent;
+    border-image: url(border.png) 20% round;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.icons{
+    width:30px; 
+    height:30px;
+    border-radius: 50%;
+    padding:10px;
+
+}
+
+
+
+
